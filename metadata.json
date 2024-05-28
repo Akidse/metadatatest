@@ -1,0 +1,9 @@
+{
+    "name": "AurTestCoin",
+    "symbol": "TST",
+    "image": "https://issue-10018.mintmeproxy.abchosting.org/build/images/logo.b4a08b8f..svg",
+    "description": "AurTestCoin",
+    "extensions": {
+        "website": "https://www.test.com"
+    }
+}
